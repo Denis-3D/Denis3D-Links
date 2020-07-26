@@ -9,9 +9,9 @@
 - Node Wrangler [Free - Built in Blender] 
 - F2 [Free - Built in Blender] 
 - MagicUV [Free - Built in Blender] 
-- BoxCutter [Paid]
-- Hard Ops [Paid]
-- MESHmachine [Paid]
+- BoxCutter [Paid] https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
+- Hard Ops [Paid] https://blendermarket.com/products/hardopsofficial | https://gumroad.com/l/hardops
+- MESHmachine [Paid] https://blendermarket.com/products/MESHmachine | https://gumroad.com/l/MESHmachine/
 
 ## Good to have them
 
@@ -20,8 +20,8 @@
 - Texal Density Checker [Free] https://gumroad.com/l/CEIOR
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
 - BMAX Connector [Free] https://gumroad.com/l/B2MAX
-- Collection Manager [Free]
-- Material Utilities [Free]
+- Collection Manager [Free - Built in Blender]
+- Material Utilities [Free - Built in Blender]
 - Simple Renaming Panel [Free] https://gumroad.com/l/simple_renaming_panel
 - Archipack PRO [Paid]
-- UV Layout [Free]
+- UV Layout [Free - Built in Blender]
