@@ -9,19 +9,18 @@
 - Node Wrangler [Free - Built in Blender] 
 - F2 [Free - Built in Blender] 
 - MagicUV [Free - Built in Blender] 
-- BoxCutter [Paid] https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
-- Hard Ops [Paid] https://blendermarket.com/products/hardopsofficial | https://gumroad.com/l/hardops
+- BoxCutter [Paid] # https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
+- Hard Ops [Paid] # https://blendermarket.com/products/hardopsofficial | https://gumroad.com/l/hardops
 - MESHmachine [Paid] https://blendermarket.com/products/MESHmachine | https://gumroad.com/l/MESHmachine/
+- Vertex Color Master [Free] https://github.com/andyp123/blender_vertex_color_master
+- Texal Density Checker [Free] https://gumroad.com/l/CEIOR
 
 ## Good to have them
 
 - UVPackmaster [Paid] https://gumroad.com/l/uvpackmaster2
-- Vertex Color Master [Free] https://github.com/andyp123/blender_vertex_color_master
-- Texal Density Checker [Free] https://gumroad.com/l/CEIOR
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
 - BMAX Connector [Free] https://gumroad.com/l/B2MAX
 - Collection Manager [Free - Built in Blender]
 - Material Utilities [Free - Built in Blender]
 - Simple Renaming Panel [Free] https://gumroad.com/l/simple_renaming_panel
-- Archipack PRO [Paid]
 - UV Layout [Free - Built in Blender]
