@@ -2,7 +2,7 @@
 
 ## Essential in my workflow
 
-- MACHIN3tools [Free] https://github.com/machin3io/MACHIN3tools
+- MACHIN3tools [🆓Free] https://github.com/machin3io/MACHIN3tools
 - Snapping Pies 2.8 [Free] https://github.com/mx1001/power_snapping_pies
 - TexTools [Free] https://github.com/SavMartin/TexTools-Blender
 - BoxCutter [Paid] https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
