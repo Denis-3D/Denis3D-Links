@@ -19,9 +19,11 @@
 ## Good to have them
 
 - UVPackmaster [Paid] https://gumroad.com/l/uvpackmaster2
+- Simply Cloth [Paid] https://blendermarket.com/products/simply-cloth
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
 - BMAX Connector [Free] https://gumroad.com/l/B2MAX
 - Simple Renaming Panel [Free] https://gumroad.com/l/simple_renaming_panel
 - Collection Manager [Free - Built in Blender]
 - Material Utilities [Free - Built in Blender]
 - UV Layout [Free - Built in Blender]
+
