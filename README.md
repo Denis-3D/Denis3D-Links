@@ -1,5 +1,6 @@
 ## [Denis3D] - [BlenderAddons](#blender) | [Tools](#tools) | [Plugins](#plugins)| [Resources](#resources) | [Tutorials](#tutorials) |
 
+<a name="blender"></a>
 ## Paid - Blender Addons
 
 - BoxCutter https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
@@ -11,8 +12,6 @@
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
 - Simply Cloth Pro https://blendermarket.com/products/simply-cloth
 
-<a name="blender"></a>
-<a name="Free"></a>
 ## Free - Blender Addons
 
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
@@ -32,3 +31,14 @@
 - MagicUV [Free - Built in Blender] 
 - UVSquares [Free] https://github.com/Radivarig/UvSquares
 
+<a name="tools"></a>
+## Tools
+
+<a name="plugins"></a>
+## Plugins
+
+<a name="resources"></a>
+## Resources
+
+<a name="tutorials"></a>
+## Tutorials
