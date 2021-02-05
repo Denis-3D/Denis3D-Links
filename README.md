@@ -3,8 +3,8 @@
 <a name="blender"></a>
 ## Paid - Blender Addons
 
-- BoxCutter https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
-- Hard Ops https://blendermarket.com/products/hardopsofficial | https://gumroad.com/l/hardops
+- BoxCutter https://blendermarket.com/creators/teamc?ref=378 | https://gumroad.com/l/BoxCutter
+- Hard Ops https://blendermarket.com/creators/teamc?ref=378 | https://gumroad.com/l/hardops
 - MESHmachine https://blendermarket.com/products/MESHmachine | https://gumroad.com/l/MESHmachine/
 - DecalMachine https://blendermarket.com/products/DECALmachine | https://gumroad.com/l/DECALmachine/
 - Cablenator https://blendermarket.com/products/cbl | https://gumroad.com/l/cblrtr
