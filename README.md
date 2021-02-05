@@ -29,3 +29,7 @@
 - F2 [Free - Built in Blender] 
 - MagicUV [Free - Built in Blender] 
 - UVSquares [Free] https://github.com/Radivarig/UvSquares
+
+> 1.2.12 [BlenderAddons](#Blender-Addons)
+
+<a name="Blender-Addons"></a>
