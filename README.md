@@ -3,7 +3,7 @@
 <a name="blender"></a>
 ## Paid - Blender Addons
 
-- HardOps / BoxCutter *Affiliate link* https://blendermarket.com/creators/teamc?ref=378
+- HardOps / BoxCutter *Affiliate link* https://blendermarket.com/creators/teamc?ref=378 |  https://gumroad.com/a/30282867
 - MESHmachine https://blendermarket.com/products/MESHmachine | https://gumroad.com/l/MESHmachine/
 - DecalMachine https://blendermarket.com/products/DECALmachine | https://gumroad.com/l/DECALmachine/
 - Cablenator https://blendermarket.com/products/cbl | https://gumroad.com/l/cblrtr
