@@ -1,4 +1,4 @@
-## [Denis3D] - [BlenderAddons](#blender) | [Tools](#tools) | [Plugins](#plugins)| [Resources](#resources) | [Tutorials](#tutorials) |
+## [Denis3D] - [Blender Addons](#blender) | [Tools](#tools) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
 
 <a name="blender"></a>
 ## Paid - Blender Addons
