@@ -1,6 +1,6 @@
-## [Denis3D] - #1# Blender Add-ons | ## Tools | ## Plugins | ## Resources | ## Tutorials |
+## [Denis3D] - Blender Add-ons | Tools | Plugins | Resources | Tutorials |
 
-#1# Paid - Blender Addons
+## Paid - Blender Addons
 
 - BoxCutter https://blendermarket.com/products/boxcutter | https://gumroad.com/l/BoxCutter
 - Hard Ops https://blendermarket.com/products/hardopsofficial | https://gumroad.com/l/hardops
@@ -11,7 +11,7 @@
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
 - Simply Cloth Pro https://blendermarket.com/products/simply-cloth
 
-#1# Free - Blender Addons
+## Free - Blender Addons
 
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
 - BMAX Connector [Free] https://gumroad.com/l/B2MAX
