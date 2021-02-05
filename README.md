@@ -1,4 +1,4 @@
-## [Denis3D] - Blender Add-ons | Tools | Plugins | Resources | Tutorials |
+## [Denis3D] - [BlenderAddons](#blender) | [Tools](#tools) | [Plugins](#plugins)| [Resources](#resources) | [Tutorials](#tutorials) |
 
 ## Paid - Blender Addons
 
@@ -11,6 +11,8 @@
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
 - Simply Cloth Pro https://blendermarket.com/products/simply-cloth
 
+<a name="blender"></a>
+<a name="Free"></a>
 ## Free - Blender Addons
 
 - Asset Creation Toolset [Free] https://gumroad.com/l/hPXIh
@@ -30,6 +32,3 @@
 - MagicUV [Free - Built in Blender] 
 - UVSquares [Free] https://github.com/Radivarig/UvSquares
 
-> 1.2.12 [BlenderAddons](#Blender-Addons)
-
-<a name="Blender-Addons"></a>
