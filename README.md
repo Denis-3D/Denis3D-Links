@@ -3,8 +3,8 @@
 <a name="blender"></a>
 ## Paid - Blender Addons
 
-- HardOps / BoxCutter *Affiliate link* https://blendermarket.com/creators/teamc?ref=378 |  https://gumroad.com/a/30282867
-- MESHmachine / DecalMachine *Affiliate link* https://blendermarket.com/creators/machin3?ref=378 | https://gumroad.com/a/147723379
+- HardOps / BoxCutter *Affiliate link* - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867)
+- MESHmachine / DecalMachine *Affiliate link* - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
 - Cablenator https://blendermarket.com/products/cbl | https://gumroad.com/l/cblrtr
 - UV Toolkit https://blendermarket.com/products/uv-toolkit
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
