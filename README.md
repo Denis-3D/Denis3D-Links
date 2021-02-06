@@ -4,8 +4,7 @@
 ## Paid - Blender Addons
 
 - HardOps / BoxCutter *Affiliate link* https://blendermarket.com/creators/teamc?ref=378 |  https://gumroad.com/a/30282867
-- MESHmachine https://blendermarket.com/products/MESHmachine | https://gumroad.com/l/MESHmachine/
-- DecalMachine https://blendermarket.com/products/DECALmachine | https://gumroad.com/l/DECALmachine/
+- MESHmachine / DecalMachine *Affiliate link* https://blendermarket.com/creators/machin3?ref=378 | https://gumroad.com/a/147723379
 - Cablenator https://blendermarket.com/products/cbl | https://gumroad.com/l/cblrtr
 - UV Toolkit https://blendermarket.com/products/uv-toolkit
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
