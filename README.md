@@ -7,7 +7,7 @@
 - MESHmachine / DecalMachine - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
 - Cablenator [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv)
 - Simply Cloth Pro [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
-- UV Toolkit https://blendermarket.com/products/uv-toolkit
+- UV Toolkit [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
 - UVPackmaster https://gumroad.com/l/uvpackmaster2
 
 
