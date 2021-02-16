@@ -38,6 +38,8 @@
 <a name="resources"></a>
 ## Resources
 
+- JROTools [Gumroad](https://gumroad.com/a/8524915)
+
 <a name="tutorials"></a>
 ## Tutorials
 
