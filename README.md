@@ -9,7 +9,7 @@
 - Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
 - UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
 - CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483)
-- SimpleBake - [BlenderMarket](https://blendermarket.com/products/simplebake---simple-pbr-and-other-baking-in-blender-2)
+- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
 - PowerSave - [BlenderMarket](https://blendermarket.com/products/powersave)
 
