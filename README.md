@@ -9,7 +9,7 @@
 - Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195) Affiliate Link
 - UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) Affiliate Link
 - CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483) Affiliate Link
-- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378) Affiliate Link
+- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378) *Affiliate Link*
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
 - PowerSave - [BlenderMarket](https://blendermarket.com/products/powersave)
 
