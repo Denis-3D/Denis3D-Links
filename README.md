@@ -3,13 +3,13 @@
 <a name="blender"></a>
 ## Paid - Blender Addons
 
-- HardOps / BoxCutter - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867)
-- MESHmachine / DecalMachine - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
-- Cablenator - [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv)
-- Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
-- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
-- CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483)
-- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
+- HardOps / BoxCutter - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867) Affiliate Link
+- MESHmachine / DecalMachine - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379) Affiliate Link
+- Cablenator - [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv) Affiliate Link
+- Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195) Affiliate Link
+- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) Affiliate Link
+- CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483) Affiliate Link
+- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378) Affiliate Link
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
 - PowerSave - [BlenderMarket](https://blendermarket.com/products/powersave)
 
@@ -48,4 +48,4 @@
 <a name="tutorials"></a>
 ## Tutorials
 
-- FlippedNormals [Link](https://flippednormals.com/ref/denis3d/)
+- FlippedNormals [Link](https://flippednormals.com/ref/denis3d/) Affiliate Link
