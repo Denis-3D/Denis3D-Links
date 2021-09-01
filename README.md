@@ -1,19 +1,17 @@
 ## [Denis3D] - [Blender Addons](#blender) | [Tools](#tools) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
 
 <a name="blender"></a>
-## Paid - Blender Addons
+## Paid - Blender Addons *(Affiliate Links)*
 
-- [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867) *(Affiliate Links)* - HardOps / BoxCutter
-- [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379) *(Affiliate Links) - *MESHmachine / DecalMachine
-- [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv) *(Affiliate Links)* - Cablenator
-- Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195) *(Affiliate Links)*
-- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) *(Affiliate Links)*
-- CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483) *(Affiliate Links)*
-- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378) *(Affiliate Links)*
-- PowerSave / PowerManage / PowerBackup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378) *(Affiliate Links)*
+- HardOps / BoxCutter - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867)
+- MESHmachine / DecalMachine - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
+- Cablenator - [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv)
+- Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
+- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
+- CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483)
+- SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
+- PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
-
-
 
 
 ## Free - Blender Addons
