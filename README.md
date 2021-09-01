@@ -10,8 +10,9 @@
 - UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) *(Affiliate Links)*
 - CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483) *(Affiliate Links)*
 - SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378) *(Affiliate Links)*
+- PowerSave / PowerManage / PowerBackup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378) *(Affiliate Links)*
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
-- PowerSave - [BlenderMarket](https://blendermarket.com/products/powersave)
+
 
 
 
