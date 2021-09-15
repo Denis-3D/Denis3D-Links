@@ -12,6 +12,8 @@
 - SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
 - SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
+- Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
+- BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 
 
 ## Free - Blender Addons
