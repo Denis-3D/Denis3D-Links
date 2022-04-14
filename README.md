@@ -34,6 +34,7 @@
 - F2 [Free - Built in Blender] 
 - MagicUV [Free - Built in Blender] 
 - UVSquares [Free] https://github.com/Radivarig/UvSquares
+- Sollumz [Free] https://github.com/Skylumz/Sollumz
 
 <a name="tools"></a>
 ## Tools
