@@ -4,7 +4,7 @@
 ## Paid - Blender Addons *(Affiliate Links)*
 
 - HardOps / BoxCutter - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867)
-- MESHmachine / DecalMachine - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
+- MESHmachine / DecalMachine / Machin3tools DeusEx - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
 - Cablenator - [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv)
 - Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
 - UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
