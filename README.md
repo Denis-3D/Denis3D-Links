@@ -15,6 +15,10 @@
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - ZenSets/ZenUV/ZenBBQ - [BlenderMarket](https://blendermarket.com/creators/sergey-tyapkin?ref=378)
+- Bmesh Clean - [BlenderMarket](https://blendermarket.com/creators/andrew_d_shop?ref=378)
+- Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
+- Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
+- Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
 
 ## Free - Blender Addons
 
