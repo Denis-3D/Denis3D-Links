@@ -22,23 +22,23 @@
 
 ## Free - Blender Addons
 
-- Asset Creation Toolset [Free] [Gumroad](https://gumroad.com/l/hPXIh)
-- BMAX Connector [Free] [Gumroad](https://gumroad.com/l/B2MAX)
-- Simple Renaming Panel [Free] [Gumroad](https://gumroad.com/l/simple_renaming_panel)
-- Texal Density Checker [Free] [Gumroad](https://gumroad.com/l/CEIOR)
-- UVSquares [Free] [Gumroad](https://github.com/Radivarig/UvSquares)
-- Sollumz [Free] [Gumroad](https://github.com/Skylumz/Sollumz)
-- MACHIN3tools [Free] [GitHub](https://github.com/machin3io/MACHIN3tools)
-- Snapping Pies 2.8 [Free] [GitHub](https://github.com/mx1001/power_snapping_pies)
-- TexTools [Free] [GitHub](https://github.com/SavMartin/TexTools-Blender)
-- Vertex Color Master [Free] [GitHub](https://github.com/andyp123/blender_vertex_color_master)
-- LoopTools [Free - Built in Blender]  
-- Node Wrangler [Free - Built in Blender] 
-- F2 [Free - Built in Blender] 
-- MagicUV [Free - Built in Blender] 
-- Collection Manager [Free - Built in Blender]
-- Material Utilities [Free - Built in Blender]
-- UV Layout [Free - Built in Blender]
+- Asset Creation Toolset [Gumroad](https://gumroad.com/l/hPXIh)
+- BMAX Connector [Gumroad](https://gumroad.com/l/B2MAX)
+- Simple Renaming Panel [Gumroad](https://gumroad.com/l/simple_renaming_panel)
+- Texal Density Checker [Gumroad](https://gumroad.com/l/CEIOR)
+- UVSquares [Gumroad](https://github.com/Radivarig/UvSquares)
+- Sollumz [Gumroad](https://github.com/Skylumz/Sollumz)
+- MACHIN3tools [GitHub](https://github.com/machin3io/MACHIN3tools)
+- Snapping Pies 2.8 [GitHub](https://github.com/mx1001/power_snapping_pies)
+- TexTools [GitHub](https://github.com/SavMartin/TexTools-Blender)
+- Vertex Color Master [GitHub](https://github.com/andyp123/blender_vertex_color_master)
+- LoopTools | Built in Blender
+- Node Wrangler | Built in Blender
+- F2 | Built in Blender
+- MagicUV | Built in Blender
+- Collection Manager | Built in Blender
+- Material Utilities | Built in Blender
+- UV Layout | Built in Blender
 
 <a name="tools"></a>
 ## Tools
