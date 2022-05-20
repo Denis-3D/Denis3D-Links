@@ -1,7 +1,7 @@
 ## [Denis3D] - [Blender Addons](#blender) | [Tools](#tools) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
 
 <a name="blender"></a>
-## Paid - Blender Addons *(Affiliate Links)*
+## Paid - [Blender Addons](https://blendermarket.com/?ref=378) *(Affiliate Links)*
 
 - HardOps / BoxCutter - [BlenderMarket](https://blendermarket.com/creators/teamc?ref=378) |  [Gumroad](https://gumroad.com/a/30282867)
 - MESHmachine / DecalMachine / Machin3tools DeusEx - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
