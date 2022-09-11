@@ -7,7 +7,6 @@
 - MESHmachine / DecalMachine / Machin3tools DeusEx - [BlenderMarket](https://blendermarket.com/creators/machin3?ref=378) | [Gumroad](https://gumroad.com/a/147723379)
 - Cablenator - [BlenderMarket](https://blendermarket.com/creators/sergey-kritskiy?ref=378) | [Gumroad](https://gumroad.com/a/875435123/oNtwv)
 - Simply Cloth Pro - [BlenderMarket](https://blendermarket.com/creators/vjaceslavt?ref=378) | [Gumroad](https://gumroad.com/a/531502195)
-- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
 - CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483)
 - SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
@@ -20,6 +19,7 @@
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
+- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) [ CREATOR MISSING IN ACTION ]
 
 ## Free - Blender Addons
 
@@ -33,6 +33,8 @@
 - Snapping Pies 2.8 [GitHub](https://github.com/mx1001/power_snapping_pies)
 - TexTools [GitHub](https://github.com/SavMartin/TexTools-Blender)
 - Vertex Color Master [GitHub](https://github.com/andyp123/blender_vertex_color_master)
+- Quick Bridge [Gumroad](https://kushiro.gumroad.com/l/qignp)
+- Connect Face [Gumroad](https://kushiro.gumroad.com/l/connect_face)
 - LoopTools | Built in Blender
 - Node Wrangler | Built in Blender
 - F2 | Built in Blender
