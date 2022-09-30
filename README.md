@@ -19,7 +19,7 @@
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
-- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115) [ CREATOR MISSING IN ACTION ]
+- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
 
 ## Free - Blender Addons
 
