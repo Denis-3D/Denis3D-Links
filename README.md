@@ -35,6 +35,7 @@
 - Vertex Color Master [GitHub](https://github.com/andyp123/blender_vertex_color_master)
 - Quick Bridge [Gumroad](https://kushiro.gumroad.com/l/qignp)
 - Connect Face [Gumroad](https://kushiro.gumroad.com/l/connect_face)
+- Ngon Loop Select [Gumroad](https://amanbairwal.gumroad.com/l/NGonLoopSelect)
 - LoopTools | Built in Blender
 - Node Wrangler | Built in Blender
 - F2 | Built in Blender
