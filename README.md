@@ -42,7 +42,6 @@
 - LoopTools | Built in Blender
 - Node Wrangler | Built in Blender
 - F2 | Built in Blender
-- MagicUV | Built in Blender
 - Collection Manager | Built in Blender
 - Material Utilities | Built in Blender
 - UV Layout | Built in Blender
