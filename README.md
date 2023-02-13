@@ -45,6 +45,7 @@
 - Collection Manager | Built in Blender
 - Material Utilities | Built in Blender
 - UV Layout | Built in Blender
+- Copy Attributes Menu
 
 <a name="tools"></a>
 ## Tools
@@ -59,5 +60,3 @@
 
 <a name="tutorials"></a>
 ## Tutorials
-
-- FlippedNormals [Link](https://flippednormals.com/ref/denis3d/) *(Affiliate Links)*
