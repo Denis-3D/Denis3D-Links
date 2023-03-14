@@ -18,6 +18,7 @@
 - Collider Tools - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
 - Clean Panels - [BlenderMarket](https://blendermarket.com/products/clean-panels?ref=378)
 - Bmesh Clean - [BlenderMarket](https://blendermarket.com/creators/andrew_d_shop?ref=378)
+- Instant Clean - [BlenderMarket](https://blendermarket.com/creators/rubenmesserschmidt?ref=378)
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
