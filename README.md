@@ -11,7 +11,6 @@
 - CurvyArrayPro + MagicCurve - [BlenderMarket](https://blendermarket.com/creators/jobweek?ref=378) | [Gumroad](https://gumroad.com/a/941626483)
 - SimpleBake - [BlenderMarket](https://blendermarket.com/creators/haughtygrayalien?ref=378)
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
-- SimpleTabs - [BlenderMarket](https://blendermarket.com/products/simple-tabs)
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - ZenSets/ZenUV/ZenBBQ - [BlenderMarket](https://blendermarket.com/creators/sergey-tyapkin?ref=378)
@@ -22,7 +21,6 @@
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
-- UV Toolkit - [BlenderMarket](https://blendermarket.com/creators/alexdev?ref=378) | [Gumroad](https://gumroad.com/a/447616115)
 
 ## Free - Blender Addons
 
@@ -40,6 +38,7 @@
 - Connect Face [Gumroad](https://kushiro.gumroad.com/l/connect_face)
 - Ngon Loop Select [Gumroad](https://amanbairwal.gumroad.com/l/NGonLoopSelect)
 - Export .blend [Github](https://github.com/CGCookie/io_export_blend)
+- Physics Dropped [Github](https://github.com/Ladypoly/Serpens-Bledner-Addons/tree/main/PhysicsDropper)
 - LoopTools | Built in Blender
 - Node Wrangler | Built in Blender
 - F2 | Built in Blender
