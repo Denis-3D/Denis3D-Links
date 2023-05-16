@@ -20,6 +20,7 @@
 - Bmesh Clean - [BlenderMarket](https://blendermarket.com/creators/andrew_d_shop?ref=378)
 - Instant Clean - [BlenderMarket](https://blendermarket.com/creators/rubenmesserschmidt?ref=378)
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
+- Auto-Highlight In Outliner - [BlenderMarket](https://blendermarket.com/products/auto-highlight-in-outliner?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
 
