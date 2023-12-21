@@ -27,6 +27,7 @@
 
 ## Free - Blender Addons
 
+- Old Modifier Menu [BlenderMarket](https://blendermarket.com/products/old-modifier-menu)
 - Asset Creation Toolset [Gumroad](https://gumroad.com/l/hPXIh)
 - BMAX Connector [Gumroad](https://gumroad.com/l/B2MAX)
 - Simple Renaming Panel [Gumroad](https://gumroad.com/l/simple_renaming_panel)
