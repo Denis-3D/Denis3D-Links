@@ -1,5 +1,5 @@
 ## [Denis3D] - [Blender Addons](#blender) | [Tools](#tools) | [Plugins](#plugins) | [Resources](#resources) | [Tutorials](#tutorials) |
-
+## LINKS BELOW ARE AFFILIATE LINKS AND IM GETTING CUT OF EACH SALE #AD #REKLAMA
 <a name="blender"></a>
 ## Paid - [Blender Addons](https://blendermarket.com/?ref=378) *(Affiliate Links)*
 
