@@ -13,7 +13,6 @@
 - Retopoflow / UVFlow - [BlenderMarket](https://blendermarket.com/creators/orangeturbine?ref=378)
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
-- BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378) [ Addon Missing for now ?]
 - ZenSets/ZenUV/ZenBBQ - [BlenderMarket](https://blendermarket.com/creators/sergey-tyapkin?ref=378)
 - Collider Tools - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
 - Vertex Colour Controls - [BlenderMarket](https://blendermarket.com/creators/squeyed?ref=378)
@@ -24,6 +23,7 @@
 - Auto-Highlight In Outliner - [BlenderMarket](https://blendermarket.com/products/auto-highlight-in-outliner?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
 - Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378) | [Gumroad](https://amanbairwal.gumroad.com/l/NGonLoopSelect)
+- BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378) [ Addon Missing for now ?]
 
 ## Free - Blender Addons
 
