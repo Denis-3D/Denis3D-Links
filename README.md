@@ -14,7 +14,7 @@
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
 - ZenSets/ZenUV/ZenBBQ - [BlenderMarket](https://blendermarket.com/creators/sergey-tyapkin?ref=378)
-- Collider Tools - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
+- Simple Collider - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
 - Vertex Colour Controls - [BlenderMarket](https://blendermarket.com/creators/squeyed?ref=378)
 - Clean Panels - [BlenderMarket](https://blendermarket.com/products/clean-panels?ref=378)
 - Bmesh Clean - [BlenderMarket](https://blendermarket.com/creators/andrew_d_shop?ref=378)
