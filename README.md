@@ -28,7 +28,7 @@
 ## Free - Blender Addons
 
 - Old Modifier Menu [BlenderMarket](https://blendermarket.com/products/old-modifier-menu)
-- Asset Creation Toolset [Gumroad](https://github.com/mrven/Blender-Asset-Creation-Toolset)
+- Asset Creation Toolset [GitHub](https://github.com/mrven/Blender-Asset-Creation-Toolset)
 - BMAX Connector [Gumroad](https://gumroad.com/l/B2MAX)
 - Simple Renaming Panel [Gumroad](https://gumroad.com/l/simple_renaming_panel)
 - Texal Density Checker [Gumroad](https://gumroad.com/l/CEIOR)
