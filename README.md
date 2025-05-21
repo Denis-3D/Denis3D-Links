@@ -13,7 +13,7 @@
 - Retopoflow / UVFlow - [BlenderMarket](https://blendermarket.com/creators/orangeturbine?ref=378)
 - PowerSave/Manage/Backup - [BlenderMarket](https://blendermarket.com/creators/bonjorno7?ref=378)
 - Asset Sketcher - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
-- BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378)
+- BPainter - [BlenderMarket](https://blendermarket.com/creators/ndee?ref=378) [ Addon Missing for now ?]
 - ZenSets/ZenUV/ZenBBQ - [BlenderMarket](https://blendermarket.com/creators/sergey-tyapkin?ref=378)
 - Collider Tools - [BlenderMarket](https://blendermarket.com/creators/matthias-patscheider?ref=378)
 - Vertex Colour Controls - [BlenderMarket](https://blendermarket.com/creators/squeyed?ref=378)
@@ -23,7 +23,7 @@
 - Colorframe Renders Pro - [BlenderMarket](https://blendermarket.com/products/colorframe-renders-pro?ref=378)
 - Auto-Highlight In Outliner - [BlenderMarket](https://blendermarket.com/products/auto-highlight-in-outliner?ref=378)
 - Align And Distribute - [BlenderMarket](https://blendermarket.com/products/align-and-distribute?ref=378)
-- Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378)
+- Ngon Loop Select - [BlenderMarket](https://blendermarket.com/products/ngon-loop-select?ref=378) | [Gumroad](https://amanbairwal.gumroad.com/l/NGonLoopSelect)
 
 ## Free - Blender Addons
 
@@ -34,13 +34,12 @@
 - Texal Density Checker [Gumroad](https://gumroad.com/l/CEIOR)
 - UVSquares [GitHub](https://github.com/Radivarig/UvSquares)
 - Sollumz [GitHub](https://github.com/Skylumz/Sollumz)
-- MACHIN3tools [GitHub](https://github.com/machin3io/MACHIN3tools)
+- MACHIN3tools [GitHub](https://github.com/nessaki/MACHIN3tools) (Very old version)
 - Snapping Pies 2.8 [GitHub](https://github.com/mx1001/power_snapping_pies)
 - TexTools [GitHub](https://github.com/SavMartin/TexTools-Blender)
 - Vertex Color Master [GitHub](https://github.com/andyp123/blender_vertex_color_master)
 - Quick Bridge [Gumroad](https://kushiro.gumroad.com/l/qignp)
 - Connect Face [Gumroad](https://kushiro.gumroad.com/l/connect_face)
-- Ngon Loop Select [Gumroad](https://amanbairwal.gumroad.com/l/NGonLoopSelect)
 - Export .blend [Github](https://github.com/CGCookie/io_export_blend)
 - Physics Dropped [Github](https://github.com/Ladypoly/Serpens-Bledner-Addons/tree/main/PhysicsDropper)
 - LoopTools | Built in Blender
